@@ -1,0 +1,90 @@
+{
+  "world_file": "energy.world",
+  "renderer_unity": false,
+  "record_csv": {
+    "rate": 10.0
+  },
+  "agents": [
+    {
+      "id": "wind",
+      "class": "Wind",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "publish_rate_hz": 10.0,
+      "tick_rate_hz": 1.0,
+      "missions": [
+        {
+          "id": "wind_hold",
+          "type": "sequence",
+          "children": [
+            {
+              "id": "seed",
+              "type": "action",
+              "task": "set_wind",
+              "params": {
+                "x": 0.0,
+                "y": 8.0
+              }
+            },
+            {
+              "id": "hold",
+              "type": "action",
+              "task": "wait",
+              "params": {
+                "duration_s": 3600.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "x500_calib",
+      "class": "X500",
+      "nb_agents": 1,
+      "spawn": {
+        "x": 0.0,
+        "y": -500.0,
+        "z": 0.0,
+        "yaw": 0.0
+      },
+      "px4": true,
+      "px4_control": "offboard",
+      "sdf_file": "model.sdf",
+      "xdyn": false,
+      "tick_rate_hz": 2.0,
+      "missions": [
+        {
+          "id": "shuttle",
+          "type": "action",
+          "task": "px4_offboard_patrol",
+          "params": {
+            "spawn": {
+              "x": 0.0,
+              "y": -500.0,
+              "z": 0.0
+            },
+            "waypoints": [
+              {
+                "name": "downwind",
+                "x": 0.0,
+                "y": -100.0,
+                "z": 60.0
+              },
+              {
+                "name": "upwind",
+                "x": 0.0,
+                "y": -500.0,
+                "z": 60.0
+              }
+            ],
+            "loop": true,
+            "hold_radius_m": 10.0,
+            "takeoff_alt_m": 60.0
+          }
+        }
+      ]
+    }
+  ]
+}

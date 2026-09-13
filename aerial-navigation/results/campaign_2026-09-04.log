@@ -1,0 +1,1930 @@
+########## M1 factorial ##########
+free space where PX4 logs: 701299MB
+### m1_factorial cell=A seed=1   [1/32, 9m elapsed, ~284m left]
+    <scenario_ws>/scenario_logs/2026-09-04_20-36-18/
+run: <scenario_ws>/scenario_logs/2026-09-04_20-36-18
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21971  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21952  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24428  23.42  14.74  13.02  43.32  44.48    1.1
+    inst1       24407  23.57  14.70  13.25  43.29  44.21    0.3
+
+### m1_factorial cell=B seed=1   [2/32, 17m elapsed, ~261m left]
+    <scenario_ws>/scenario_logs/2026-09-04_20-44-33/
+run: <scenario_ws>/scenario_logs/2026-09-04_20-44-33
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21955  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21964  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24412  23.67  14.84  14.86  44.71  45.11    8.8
+    inst1       24422  23.57  14.70  13.26  43.28  44.25    0.5
+
+### m1_factorial cell=C seed=1   [3/32, 25m elapsed, ~247m left]
+    <scenario_ws>/scenario_logs/2026-09-04_20-52-48/
+run: <scenario_ws>/scenario_logs/2026-09-04_20-52-48
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21974  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21967  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24433  25.89   9.93  22.28  41.84  44.17    0.1
+    inst1       24425  23.56  14.70  13.25  43.28  44.28    0.6
+
+### m1_factorial cell=D seed=1   [4/32, 33m elapsed, ~237m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-01-03/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-01-03
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21987  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21970  track    1886m  flight   463s
+  VERDICT: PASS
+    inst0       24447  26.01  10.32  23.05  42.22  44.36    0.3
+    inst1       24428  23.57  14.69  13.26  43.27  44.20    0.4
+
+### m1_factorial cell=A seed=2   [5/32, 42m elapsed, ~227m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-09-19/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-09-19
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21967  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21968  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24420  23.44  14.75  13.19  43.44  44.91    0.7
+    inst1       24420  23.36  14.68  12.92  43.16  44.11    0.2
+
+### m1_factorial cell=B seed=2   [6/32, 50m elapsed, ~218m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-17-34/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-17-34
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21967  track    1888m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21961  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24420  23.71  14.96  15.17  44.82  45.23    8.3
+    inst1       24413  23.36  14.67  12.93  43.12  44.15    0.4
+
+### m1_factorial cell=C seed=2   [7/32, 58m elapsed, ~209m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-25-48/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-25-48
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21957  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24418  25.91   9.92  22.41  41.37  43.69    0.0
+    inst1       24412  23.36  14.68  12.93  43.15  44.10    0.3
+
+### m1_factorial cell=D seed=2   [8/32, 66m elapsed, ~200m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-34-03/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-34-03
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.5m  cruise  22023  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21967  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24485  25.96  10.44  23.41  42.39  45.12    0.5
+    inst1       24423  23.36  14.68  12.94  43.12  44.23    0.3
+
+### m1_factorial cell=A seed=3   [9/32, 76m elapsed, ~194m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-43-17/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-43-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21953  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21962  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24408  23.33  14.56  13.14  42.84  43.77    0.0
+    inst1       24419  23.44  14.48  13.31  42.94  44.14    0.3
+
+### m1_factorial cell=B seed=3   [10/32, 84m elapsed, ~185m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-51-32/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-51-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21967  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21963  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24423  23.29  14.62  14.81  43.59  45.04    3.6
+    inst1       24418  23.44  14.49  13.31  42.94  44.13    0.2
+
+Terminated
+### m1_factorial cell=C seed=3   [11/32, 92m elapsed, ~176m left]
+    <scenario_ws>/scenario_logs/2026-09-04_21-59-46/
+run: <scenario_ws>/scenario_logs/2026-09-04_21-59-46
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21980  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24417  25.83   9.63  22.28  41.21  43.18    0.0
+    inst1       24437  23.44  14.48  13.32  42.93  44.06    0.2
+
+### m1_factorial cell=D seed=3   [12/32, 100m elapsed, ~168m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-08-01/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-08-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21960  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21964  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24414  25.70   9.88  22.51  41.23  43.13    0.0
+    inst1       24419  23.45  14.49  13.32  42.94  44.13    0.3
+
+### m1_factorial cell=A seed=4   [13/32, 109m elapsed, ~159m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-16-16/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-16-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21966  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21963  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24422  23.46  14.64  13.24  43.14  44.70    1.1
+    inst1       24418  23.40  14.72  13.09  43.27  45.00    1.3
+
+### m1_factorial cell=B seed=4   [14/32, 117m elapsed, ~150m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-24-32/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-24-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21964  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21956  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24422  23.82  14.61  15.51  44.38  45.14    6.6
+    inst1       24412  23.40  14.72  13.09  43.27  44.97    1.3
+
+### m1_factorial cell=C seed=4   [15/32, 125m elapsed, ~142m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-32-46/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-32-46
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21967  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21974  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24425  25.91   9.88  22.81  41.76  43.87    0.0
+    inst1       24432  23.39  14.72  13.08  43.28  45.00    1.2
+
+### m1_factorial cell=D seed=4   [16/32, 133m elapsed, ~133m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-41-01/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-41-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21968  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21978  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24425  26.08  10.25  24.19  42.14  44.97    0.5
+    inst1       24436  23.39  14.72  13.07  43.26  44.99    1.3
+
+### m1_factorial cell=A seed=5   [17/32, 142m elapsed, ~125m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-49-16/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-49-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21969  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21982  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24424  23.50  14.72  13.09  43.31  44.42    0.5
+    inst1       24438  23.43  14.64  13.20  43.23  44.50    0.5
+
+### m1_factorial cell=B seed=5   [18/32, 150m elapsed, ~116m left]
+    <scenario_ws>/scenario_logs/2026-09-04_22-57-31/
+run: <scenario_ws>/scenario_logs/2026-09-04_22-57-31
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21972  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21978  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24430  23.91  14.94  14.88  44.82  45.07   10.0
+    inst1       24437  23.43  14.64  13.22  43.19  44.49    0.6
+
+Terminated
+### m1_factorial cell=C seed=5   [19/32, 158m elapsed, ~108m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-05-46/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-05-46
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21974  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21962  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24431  25.97   9.87  22.37  41.61  43.17    0.0
+    inst1       24417  23.45  14.64  13.21  43.20  44.48    0.5
+
+### m1_factorial cell=D seed=5   [20/32, 166m elapsed, ~100m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-14-01/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-14-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21969  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21947  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24425  26.27  10.35  23.39  42.08  44.68    0.2
+    inst1       24400  23.45  14.64  13.21  43.20  44.49    0.7
+
+### m1_factorial cell=A seed=6   [21/32, 175m elapsed, ~91m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-22-16/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-22-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21975  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.6m  cruise  21997  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24434  23.34  14.74  12.93  43.18  44.10    0.2
+    inst1       24458  23.30  14.77  12.93  43.17  44.28    0.2
+
+### m1_factorial cell=B seed=6   [22/32, 184m elapsed, ~83m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-31-29/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-31-29
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21965  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21976  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24427  23.43  14.92  14.48  44.40  45.07    6.5
+    inst1       24438  23.31  14.78  12.92  43.19  44.29    0.2
+
+### m1_factorial cell=C seed=6   [23/32, 192m elapsed, ~75m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-39-44/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-39-44
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21955  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21971  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24409  25.82   9.88  22.38  41.36  43.57    0.0
+    inst1       24426  23.31  14.78  12.93  43.21  44.31    0.2
+
+### m1_factorial cell=D seed=6   [24/32, 200m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-47-59/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-47-59
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21961  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21972  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24416  25.77  10.26  23.01  42.00  43.92    0.0
+    inst1       24429  23.31  14.78  12.93  43.18  44.24    0.2
+
+### m1_factorial cell=A seed=7   [25/32, 209m elapsed, ~58m left]
+    <scenario_ws>/scenario_logs/2026-09-04_23-56-14/
+run: <scenario_ws>/scenario_logs/2026-09-04_23-56-14
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21984  track    1887m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21964  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24442  23.52  14.68  13.24  43.24  44.70    0.7
+    inst1       24419  23.41  14.77  13.04  43.12  44.62    0.7
+
+### m1_factorial cell=B seed=7   [26/32, 217m elapsed, ~50m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-04-29/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-04-29
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21964  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21962  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24420  23.99  14.83  15.15  44.72  45.09    8.4
+    inst1       24418  23.40  14.77  13.05  43.10  44.60    0.7
+
+### m1_factorial cell=C seed=7   [27/32, 225m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-12-43/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-12-43
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21951  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.5m  cruise  21963  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24408  26.03   9.84  22.63  41.36  43.54    0.0
+    inst1       24422  23.40  14.77  13.05  43.12  44.63    0.7
+
+### m1_factorial cell=D seed=7   [28/32, 233m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-20-58/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-20-58
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21966  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21966  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24420  26.29  10.21  23.77  42.14  44.40    0.1
+    inst1       24420  23.40  14.78  13.05  43.13  44.59    0.7
+
+### m1_factorial cell=A seed=8   [29/32, 242m elapsed, ~25m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-29-13/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-29-13
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21954  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21952  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24409  23.53  14.57  13.25  43.24  44.21    0.3
+    inst1       24407  23.50  14.72  13.11  43.25  44.79    0.6
+
+### m1_factorial cell=B seed=8   [30/32, 250m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-37-28/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-37-28
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  22000  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21972  track    1887m  flight   463s
+  VERDICT: PASS
+    inst0       24458  23.75  14.54  15.22  44.40  45.08    6.6
+    inst1       24427  23.49  14.72  13.10  43.24  44.83    0.6
+
+### m1_factorial cell=C seed=8   [31/32, 258m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-45-43/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-45-43
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.7m  cruise  22034  track    1884m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21987  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24495  25.95   9.71  22.32  41.59  43.71    0.0
+    inst1       24443  23.48  14.72  13.10  43.22  44.82    0.6
+
+### m1_factorial cell=D seed=8   [32/32, 266m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_00-53-58/
+run: <scenario_ws>/scenario_logs/2026-09-05_00-53-58
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21964  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21968  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24423  26.12   9.88  23.34  42.13  43.79    0.0
+    inst1       24426  23.49  14.72  13.11  43.24  44.76    0.6
+
+Terminated
+done; world restored; manifest at <results>/manifests/factorial_manifest_m1_factorial.txt
+########## M3 factorial ##########
+free space where PX4 logs: 695681MB
+### m3_factorial cell=A seed=1   [1/32, 8m elapsed, ~252m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-02-21/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-02-21
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21861  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21842  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21843  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21848  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24317  33.55   2.25  33.39  35.63  42.99    0.0
+    inst1       24296  33.56   2.23  33.45  35.34  43.03    0.0
+    inst2       24297  33.66   2.23  33.48  35.85  43.04    0.0
+    inst3       24304  33.66   2.21  33.55  35.48  43.06    0.0
+
+### m3_factorial cell=B seed=1   [2/32, 16m elapsed, ~246m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-10-39/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-10-39
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21873  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21843  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24295  33.67   2.41  33.39  37.79  42.97    0.0
+    inst1       24332  33.52   2.44  33.41  37.22  42.93    0.0
+    inst2       24299  33.65   2.37  33.54  37.05  43.02    0.0
+    inst3       24301  33.66   2.41  33.45  37.18  42.96    0.0
+
+### m3_factorial cell=C seed=1   [3/32, 24m elapsed, ~238m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-18-56/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-18-56
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21838  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21838  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21842  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24304  33.36   2.27  33.15  35.36  42.93    0.0
+    inst1       24297  33.34   2.28  33.24  35.25  42.97    0.0
+    inst2       24296  33.44   2.27  33.36  35.42  43.07    0.0
+    inst3       24301  33.43   2.28  33.27  35.77  42.99    0.0
+
+### m3_factorial cell=D seed=1   [4/32, 33m elapsed, ~231m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-27-14/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-27-14
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21838  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21845  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21858  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21839  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24301  33.47   2.39  33.28  36.96  42.99    0.0
+    inst1       24309  33.30   2.50  33.32  36.23  42.92    0.0
+    inst2       24323  33.43   2.48  33.35  36.57  42.98    0.0
+    inst3       24303  33.42   2.43  33.41  35.91  43.10    0.0
+
+Terminated
+### m3_factorial cell=A seed=2   [5/32, 41m elapsed, ~223m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-35-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-35-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21852  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21846  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21847  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21846  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24315  33.62   2.24  33.54  35.51  43.04    0.0
+    inst1       24309  33.54   2.20  33.42  35.24  43.03    0.0
+    inst2       24310  33.70   2.24  33.58  35.63  43.16    0.0
+    inst3       24309  33.58   2.26  33.49  35.36  43.20    0.0
+
+### m3_factorial cell=B seed=2   [6/32, 49m elapsed, ~214m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-43-50/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-43-50
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21864  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21847  track     500m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24309  33.61   2.42  33.52  37.48  43.00    0.0
+    inst1       24324  33.77   2.42  33.59  37.48  43.06    0.0
+    inst2       24306  33.55   2.39  33.47  36.60  43.18    0.0
+    inst3       24309  33.50   2.30  33.40  35.90  43.06    0.0
+
+### m3_factorial cell=C seed=2   [7/32, 57m elapsed, ~206m left]
+    <scenario_ws>/scenario_logs/2026-09-05_01-52-08/
+run: <scenario_ws>/scenario_logs/2026-09-05_01-52-08
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21850  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21846  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21847  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21847  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24314  33.42   2.29  33.33  35.57  43.01    0.0
+    inst1       24309  33.36   2.33  33.28  35.34  43.18    0.0
+    inst2       24309  33.32   2.26  33.19  35.19  43.05    0.0
+    inst3       24310  33.47   2.28  33.28  35.51  43.14    0.0
+
+### m3_factorial cell=D seed=2   [8/32, 66m elapsed, ~198m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-00-26/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-00-26
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21829  track     499m  flight   459s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21837  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21836  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21833  track     499m  flight   459s
+  VERDICT: PASS
+    inst0       24287  33.42   2.46  33.43  36.41  42.99    0.0
+    inst1       24295  33.55   2.42  33.45  36.71  43.17    0.0
+    inst2       24295  33.32   2.48  33.35  36.00  43.20    0.0
+    inst3       24292  33.29   2.38  33.25  35.37  43.02    0.0
+
+### m3_factorial cell=A seed=3   [9/32, 74m elapsed, ~190m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-08-44/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-08-44
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21835  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21841  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21837  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21839  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24294  33.63   2.22  33.49  35.42  43.16    0.0
+    inst1       24300  33.53   2.23  33.46  35.37  43.04    0.0
+    inst2       24296  33.60   2.25  33.40  35.59  43.14    0.0
+    inst3       24298  33.62   2.23  33.55  35.42  43.09    0.0
+
+### m3_factorial cell=B seed=3   [10/32, 82m elapsed, ~182m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-17-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-17-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21840  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21846  track     500m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24293  33.62   2.33  33.50  36.22  43.12    0.0
+    inst1       24299  33.61   2.37  33.54  36.64  43.09    0.0
+    inst2       24297  33.56   2.41  33.46  37.02  43.00    0.0
+    inst3       24304  33.57   2.42  33.37  36.95  43.11    0.0
+
+### m3_factorial cell=C seed=3   [11/32, 91m elapsed, ~173m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-25-20/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-25-20
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21838  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21841  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21846  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21841  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24298  33.44   2.27  33.29  35.38  43.19    0.0
+    inst1       24301  33.31   2.27  33.21  35.28  43.02    0.0
+    inst2       24307  33.40   2.29  33.28  35.37  43.08    0.0
+    inst3       24301  33.37   2.30  33.17  35.53  43.12    0.0
+
+### m3_factorial cell=D seed=3   [12/32, 99m elapsed, ~165m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-33-38/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-33-38
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21841  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21848  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21853  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24298  33.43   2.39  33.37  35.65  43.15    0.0
+    inst1       24306  33.33   2.54  33.26  36.50  43.02    0.0
+    inst2       24311  33.39   2.41  33.40  35.53  43.14    0.0
+    inst3       24302  33.33   2.41  33.30  36.03  43.01    0.0
+
+### m3_factorial cell=A seed=4   [13/32, 107m elapsed, ~157m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-41-56/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-41-56
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21860  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21843  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21848  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24322  33.52   2.26  33.39  35.68  43.02    0.0
+    inst1       24304  33.55   2.25  33.37  35.73  43.15    0.0
+    inst2       24312  33.61   2.23  33.53  35.51  43.17    0.0
+    inst3       24310  33.65   2.24  33.51  35.70  43.08    0.0
+
+### m3_factorial cell=B seed=4   [14/32, 116m elapsed, ~149m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-50-14/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-50-14
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21829  track     499m  flight   459s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21832  track     499m  flight   459s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21836  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21834  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24285  33.48   2.47  33.35  36.88  43.06    0.0
+    inst1       24288  33.76   2.44  33.51  37.92  43.08    0.0
+    inst2       24293  33.71   2.37  33.53  37.43  43.12    0.0
+    inst3       24291  33.57   2.40  33.35  37.11  43.18    0.0
+
+Terminated
+### m3_factorial cell=C seed=4   [15/32, 124m elapsed, ~140m left]
+    <scenario_ws>/scenario_logs/2026-09-05_02-58-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_02-58-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21845  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21847  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24304  33.33   2.32  33.16  35.60  43.04    0.0
+    inst1       24306  33.38   2.26  33.26  35.40  43.16    0.0
+    inst2       24308  33.42   2.28  33.21  35.57  43.13    0.0
+    inst3       24305  33.32   2.29  33.13  35.53  43.26    0.0
+
+### m3_factorial cell=D seed=4   [16/32, 132m elapsed, ~132m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-06-50/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-06-50
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21834  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21843  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21853  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24297  33.28   2.53  33.24  36.09  43.07    0.0
+    inst1       24307  33.54   2.42  33.35  36.95  43.07    0.0
+    inst2       24318  33.35   2.44  33.23  36.19  43.15    0.0
+    inst3       24309  33.46   2.36  33.39  36.29  43.15    0.0
+
+### m3_factorial cell=A seed=5   [17/32, 140m elapsed, ~124m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-15-08/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-15-08
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21839  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21842  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21836  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21842  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24300  33.59   2.26  33.43  35.50  43.11    0.0
+    inst1       24302  33.74   2.20  33.52  35.74  43.10    0.0
+    inst2       24296  33.48   2.25  33.37  35.42  43.02    0.0
+    inst3       24303  33.79   2.21  33.65  35.69  43.09    0.0
+
+### m3_factorial cell=B seed=5   [18/32, 149m elapsed, ~115m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-23-25/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-23-25
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21841  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21835  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21842  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24309  33.57   2.43  33.40  37.32  43.19    0.0
+    inst1       24301  33.51   2.41  33.36  37.07  42.98    0.0
+    inst2       24308  33.88   2.41  33.65  37.91  43.16    0.0
+    inst3       24311  33.86   2.36  33.52  37.41  43.08    0.0
+
+### m3_factorial cell=C seed=5   [19/32, 157m elapsed, ~107m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-31-43/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-31-43
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21849  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21843  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21847  track     500m  flight   460s
+  VERDICT: PASS
+    inst0       24314  33.39   2.29  33.26  35.39  43.11    0.0
+    inst1       24307  33.25   2.29  33.13  35.40  43.03    0.0
+    inst2       24309  33.56   2.26  33.44  35.57  43.15    0.0
+    inst3       24312  33.51   2.22  33.29  35.73  43.14    0.0
+
+### m3_factorial cell=D seed=5   [20/32, 165m elapsed, ~99m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-40-01/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-40-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21837  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21839  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21842  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21844  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24298  33.37   2.51  33.31  36.75  43.14    0.0
+    inst1       24300  33.67   2.46  33.54  37.18  43.17    0.0
+    inst2       24303  33.65   2.36  33.42  36.68  43.13    0.0
+    inst3       24306  33.27   2.42  33.23  35.81  43.04    0.0
+
+Terminated
+### m3_factorial cell=A seed=6   [21/32, 174m elapsed, ~91m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-48-18/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-48-18
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21846  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21842  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21847  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24308  33.71   2.20  33.63  35.44  43.09    0.0
+    inst1       24311  33.58   2.23  33.41  35.62  43.13    0.0
+    inst2       24307  33.65   2.22  33.47  35.72  43.18    0.0
+    inst3       24312  33.63   2.22  33.53  35.73  43.15    0.0
+
+### m3_factorial cell=B seed=6   [22/32, 182m elapsed, ~82m left]
+    <scenario_ws>/scenario_logs/2026-09-05_03-56-36/
+run: <scenario_ws>/scenario_logs/2026-09-05_03-56-36
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21843  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21841  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21841  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24297  33.74   2.40  33.63  37.77  43.06    0.0
+    inst1       24301  33.63   2.41  33.52  37.24  43.08    0.0
+    inst2       24299  33.65   2.40  33.38  37.75  43.08    0.0
+    inst3       24298  33.68   2.34  33.46  36.69  43.12    0.0
+
+### m3_factorial cell=C seed=6   [23/32, 190m elapsed, ~74m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-04-54/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-04-54
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21855  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24296  33.51   2.24  33.46  35.33  43.11    0.0
+    inst1       24301  33.43   2.28  33.26  35.69  43.22    0.0
+    inst2       24313  33.36   2.28  33.23  35.57  43.21    0.0
+    inst3       24301  33.40   2.28  33.27  35.58  43.16    0.0
+
+Terminated
+### m3_factorial cell=D seed=6   [24/32, 199m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-13-12/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-13-12
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21856  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21849  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21850  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21854  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24320  33.55   2.44  33.56  36.74  43.10    0.0
+    inst1       24312  33.43   2.46  33.30  37.33  43.18    0.0
+    inst2       24314  33.44   2.41  33.36  36.17  43.16    0.0
+    inst3       24318  33.39   2.42  33.35  36.27  43.12    0.0
+
+### m3_factorial cell=A seed=7   [25/32, 207m elapsed, ~57m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-21-30/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-21-30
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21859  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21853  track     500m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21856  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21858  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24320  33.75   2.24  33.66  35.64  43.10    0.0
+    inst1       24312  33.55   2.23  33.37  35.50  43.15    0.0
+    inst2       24315  33.58   2.24  33.49  35.53  43.10    0.0
+    inst3       24317  33.58   2.22  33.46  35.45  43.03    0.0
+
+### m3_factorial cell=B seed=7   [26/32, 215m elapsed, ~49m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-29-48/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-29-48
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21832  track     499m  flight   459s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21832  track     500m  flight   459s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21835  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21833  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24291  33.76   2.45  33.68  37.35  43.07    0.0
+    inst1       24291  33.57   2.50  33.33  38.02  43.15    0.0
+    inst2       24294  33.64   2.44  33.48  37.84  43.05    0.0
+    inst3       24293  33.62   2.37  33.46  37.00  43.09    0.0
+
+### m3_factorial cell=C seed=7   [27/32, 223m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-38-06/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-38-06
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21846  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21847  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21867  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24307  33.55   2.30  33.49  35.52  43.05    0.0
+    inst1       24311  33.33   2.27  33.15  35.43  43.12    0.0
+    inst2       24308  33.35   2.28  33.26  35.49  43.11    0.0
+    inst3       24331  33.35   2.25  33.24  35.44  42.99    0.0
+
+### m3_factorial cell=D seed=7   [28/32, 232m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-46-24/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-46-24
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21852  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21843  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21844  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.4m  cruise  21849  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24315  33.57   2.47  33.59  36.38  43.05    0.0
+    inst1       24306  33.43   2.48  33.35  36.89  43.12    0.0
+    inst2       24307  33.35   2.50  33.22  36.82  43.15    0.0
+    inst3       24312  33.39   2.38  33.31  36.02  43.09    0.0
+
+### m3_factorial cell=A seed=8   [29/32, 240m elapsed, ~24m left]
+    <scenario_ws>/scenario_logs/2026-09-05_04-54-41/
+run: <scenario_ws>/scenario_logs/2026-09-05_04-54-41
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 1 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21848  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21842  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21844  track     500m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24311  33.52   2.23  33.36  35.70  43.12    0.0
+    inst1       24305  33.52   2.22  33.34  35.48  43.06    0.0
+    inst2       24307  33.74   2.19  33.64  35.43  43.21    0.0
+    inst3       24308  33.53   2.19  33.36  35.41  43.06    0.0
+
+Terminated
+### m3_factorial cell=B seed=8   [30/32, 248m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-02-59/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-02-59
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21848  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21845  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21850  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21865  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24309  33.46   2.38  33.32  36.61  43.11    0.0
+    inst1       24305  33.77   2.32  33.65  36.85  43.27    0.0
+    inst2       24311  33.46   2.35  33.32  36.77  43.04    0.0
+    inst3       24327  33.49   2.38  33.31  36.48  43.05    0.0
+
+### m3_factorial cell=C seed=8   [31/32, 257m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-11-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-11-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21838  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21839  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.4m  cruise  21841  track     500m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24294  33.31   2.28  33.17  35.64  43.11    0.0
+    inst1       24295  33.53   2.26  33.44  35.43  43.20    0.0
+    inst2       24298  33.30   2.26  33.19  35.36  43.06    0.0
+    inst3       24298  33.30   2.29  33.13  35.50  43.08    0.0
+
+### m3_factorial cell=D seed=8   [32/32, 265m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-19-35/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-19-35
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  20 regions, 1 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21859  track     499m  flight   460s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21839  track     499m  flight   460s
+  A3 instance 2 flew    : PASS  max_alt   52.3m  cruise  21840  track     499m  flight   460s
+  A3 instance 3 flew    : PASS  max_alt   52.3m  cruise  21839  track     499m  flight   460s
+  VERDICT: PASS
+    inst0       24322  33.26   2.45  33.23  36.28  43.09    0.0
+    inst1       24299  33.56   2.37  33.55  36.29  43.29    0.0
+    inst2       24300  33.24   2.45  33.22  35.98  43.06    0.0
+    inst3       24299  33.26   2.46  33.18  35.88  43.11    0.0
+
+done; world restored; manifest at <results>/manifests/factorial_manifest_m3_factorial.txt
+########## M2 factorial ##########
+free space where PX4 logs: 682905MB
+### m2_factorial cell=A seed=1   [1/32, 8m elapsed, ~253m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-28-01/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-28-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21955  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21957  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24411  26.04   9.42  24.74  41.38  43.44    0.0
+    inst1       24413  28.89  10.32  28.30  43.77  44.61    3.1
+
+### m2_factorial cell=B seed=1   [2/32, 16m elapsed, ~246m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-36-16/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-36-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21963  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21964  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24417  26.37   9.62  25.75  41.61  43.85    0.0
+    inst1       24419  29.02  10.43  29.00  43.79  44.55    3.1
+
+### m2_factorial cell=C seed=1   [3/32, 24m elapsed, ~238m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-44-30/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-44-30
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.1m  cruise  21947  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21940  track     254m  flight   462s
+  VERDICT: PASS
+    inst0       24403  24.70   9.80  23.41  41.07  43.42    0.0
+    inst1       24396  28.08  10.81  27.76  43.76  44.58    3.1
+
+Terminated
+### m2_factorial cell=D seed=1   [4/32, 32m elapsed, ~230m left]
+    <scenario_ws>/scenario_logs/2026-09-05_05-52-45/
+run: <scenario_ws>/scenario_logs/2026-09-05_05-52-45
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  22003  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21960  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24465  24.84   9.93  23.86  41.13  43.33    0.0
+    inst1       24418  28.23  10.84  28.14  43.79  44.60    3.4
+
+### m2_factorial cell=A seed=2   [5/32, 41m elapsed, ~221m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-01-00/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-01-00
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21958  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21987  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24418  26.06   9.52  25.04  41.27  43.64    0.0
+    inst1       24450  29.07  10.31  28.67  43.74  44.48    2.5
+
+### m2_factorial cell=B seed=2   [6/32, 49m elapsed, ~214m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-09-15/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-09-15
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21968  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21975  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24419  26.15   9.77  25.50  41.50  43.78    0.0
+    inst1       24428  29.05  10.48  28.96  43.84  44.61    3.5
+
+### m2_factorial cell=C seed=2   [7/32, 57m elapsed, ~205m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-17-30/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-17-30
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.1m  cruise  21963  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21998  track     254m  flight   462s
+  VERDICT: PASS
+    inst0       24416  24.74   9.89  23.44  41.05  43.63    0.0
+    inst1       24455  28.21  10.82  27.94  43.72  44.53    3.1
+
+### m2_factorial cell=D seed=2   [8/32, 65m elapsed, ~197m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-25-45/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-25-45
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.1m  cruise  21970  track     171m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21961  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24423  24.89  10.07  23.91  41.24  44.08    0.0
+    inst1       24414  28.27  10.89  28.06  43.88  44.58    4.1
+
+### m2_factorial cell=A seed=3   [9/32, 74m elapsed, ~189m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-34-00/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-34-00
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21961  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21961  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24413  25.89   9.51  24.66  41.27  43.18    0.0
+    inst1       24413  28.93  10.43  28.50  43.77  44.56    2.9
+
+### m2_factorial cell=B seed=3   [10/32, 82m elapsed, ~181m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-42-15/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-42-15
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21968  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21964  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24427  25.73   9.73  24.67  41.43  43.83    0.0
+    inst1       24422  28.80  10.65  28.68  43.87  44.58    3.8
+
+### m2_factorial cell=C seed=3   [11/32, 90m elapsed, ~172m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-50-30/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-50-30
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21958  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21957  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24414  24.61   9.91  23.26  41.12  43.40    0.0
+    inst1       24412  28.09  10.89  27.84  43.76  44.55    3.1
+
+### m2_factorial cell=D seed=3   [12/32, 98m elapsed, ~164m left]
+    <scenario_ws>/scenario_logs/2026-09-05_06-58-45/
+run: <scenario_ws>/scenario_logs/2026-09-05_06-58-45
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21955  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21968  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24412  24.50  10.12  23.44  41.12  43.41    0.0
+    inst1       24426  28.02  11.07  27.90  43.77  44.52    3.1
+
+### m2_factorial cell=A seed=4   [13/32, 107m elapsed, ~156m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-07-00/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-07-00
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21957  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21972  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24413  25.89   9.45  24.39  41.36  43.70    0.0
+    inst1       24428  29.08  10.24  28.58  43.77  44.62    2.9
+
+### m2_factorial cell=B seed=4   [14/32, 115m elapsed, ~148m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-15-15/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-15-15
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21965  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21979  track     256m  flight   463s
+  VERDICT: PASS
+    inst0       24428  25.92   9.70  25.14  41.51  43.76    0.0
+    inst1       24442  29.27  10.43  29.40  43.83  44.58    3.3
+
+Terminated
+### m2_factorial cell=C seed=4   [15/32, 123m elapsed, ~139m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-23-30/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-23-30
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21961  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21966  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24413  24.53   9.86  23.20  41.02  43.52    0.0
+    inst1       24420  28.22  10.76  27.91  43.73  44.55    2.9
+
+### m2_factorial cell=D seed=4   [16/32, 131m elapsed, ~131m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-31-45/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-31-45
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21972  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21964  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24429  24.36  10.15  23.27  41.20  43.59    0.0
+    inst1       24420  28.28  10.84  28.18  43.77  44.55    3.2
+
+### m2_factorial cell=A seed=5   [17/32, 140m elapsed, ~123m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-40-00/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-40-00
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21959  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21955  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24412  26.02   9.49  24.61  41.40  43.56    0.0
+    inst1       24408  28.95  10.36  28.40  43.84  44.62    3.7
+
+### m2_factorial cell=B seed=5   [18/32, 148m elapsed, ~115m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-48-14/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-48-14
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  22007  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21968  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24468  25.87   9.65  25.13  41.34  43.88    0.0
+    inst1       24424  28.92  10.38  28.77  43.79  44.49    3.2
+
+Terminated
+### m2_factorial cell=C seed=5   [19/32, 156m elapsed, ~107m left]
+    <scenario_ws>/scenario_logs/2026-09-05_07-56-29/
+run: <scenario_ws>/scenario_logs/2026-09-05_07-56-29
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.1m  cruise  21956  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21954  track     254m  flight   462s
+  VERDICT: PASS
+    inst0       24411  24.53   9.85  23.07  41.02  43.70    0.0
+    inst1       24409  28.12  10.79  27.77  43.78  44.58    3.3
+
+### m2_factorial cell=D seed=5   [20/32, 164m elapsed, ~98m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-04-44/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-04-44
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21961  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21963  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24416  24.72  10.08  23.70  41.33  43.56    0.0
+    inst1       24418  28.17  10.86  27.96  43.79  44.59    3.3
+
+### m2_factorial cell=A seed=6   [21/32, 173m elapsed, ~90m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-12-59/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-12-59
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21967  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21962  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24426  26.17   9.47  24.89  41.41  43.38    0.0
+    inst1       24420  29.09  10.30  28.56  43.80  44.52    3.1
+
+### m2_factorial cell=B seed=6   [22/32, 181m elapsed, ~82m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-21-14/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-21-14
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21958  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21966  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24418  26.22   9.66  25.50  41.55  43.66    0.0
+    inst1       24426  29.22  10.37  29.25  43.78  44.55    3.0
+
+Terminated
+### m2_factorial cell=C seed=6   [23/32, 189m elapsed, ~74m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-29-29/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-29-29
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21958  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21956  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24414  24.69   9.83  23.39  41.07  43.49    0.0
+    inst1       24412  28.21  10.78  27.73  43.86  44.62    3.9
+
+### m2_factorial cell=D seed=6   [24/32, 198m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-38-42/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-38-42
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21966  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21971  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24421  24.72  10.03  23.66  41.18  43.82    0.0
+    inst1       24426  28.33  10.73  28.06  43.79  44.59    3.1
+
+### m2_factorial cell=A seed=7   [25/32, 207m elapsed, ~57m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-46-57/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-46-57
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21971  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21957  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24427  26.01   9.51  24.72  41.41  43.62    0.0
+    inst1       24411  28.96  10.33  28.36  43.88  44.64    3.9
+
+### m2_factorial cell=B seed=7   [26/32, 215m elapsed, ~49m left]
+    <scenario_ws>/scenario_logs/2026-09-05_08-55-12/
+run: <scenario_ws>/scenario_logs/2026-09-05_08-55-12
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21961  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21974  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24416  26.07   9.81  25.37  41.62  44.15    0.0
+    inst1       24429  29.03  10.41  28.77  43.90  44.57    4.1
+
+### m2_factorial cell=C seed=7   [27/32, 223m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-03-27/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-03-27
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21962  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21958  track     254m  flight   462s
+  VERDICT: PASS
+    inst0       24416  24.77   9.93  23.43  41.23  43.37    0.0
+    inst1       24412  28.25  10.77  28.00  43.80  44.56    3.4
+
+### m2_factorial cell=D seed=7   [28/32, 231m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-11-42/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-11-42
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21963  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21961  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24417  24.78  10.01  23.53  41.44  43.49    0.0
+    inst1       24416  28.16  10.88  27.91  43.82  44.59    3.6
+
+### m2_factorial cell=A seed=8   [29/32, 240m elapsed, ~24m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-19-57/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-19-57
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 2 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21960  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21950  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24417  26.01   9.49  25.01  41.17  43.31    0.0
+    inst1       24405  29.05  10.32  28.56  43.82  44.56    3.5
+
+### m2_factorial cell=B seed=8   [30/32, 248m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-28-12/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-28-12
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21962  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24416  26.03   9.68  25.23  41.36  43.80    0.0
+    inst1       24416  29.04  10.46  29.02  43.83  44.61    3.6
+
+### m2_factorial cell=C seed=8   [31/32, 256m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-36-27/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-36-27
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21974  track     170m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21944  track     254m  flight   462s
+  VERDICT: PASS
+    inst0       24434  24.67   9.83  23.42  40.87  43.40    0.0
+    inst1       24401  28.22  10.82  27.98  43.81  44.59    3.7
+
+### m2_factorial cell=D seed=8   [32/32, 264m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-44-41/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-44-41
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  40 regions, 2 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21956  track     171m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.2m  cruise  21966  track     255m  flight   462s
+  VERDICT: PASS
+    inst0       24412  24.74  10.01  23.71  41.25  43.53    0.0
+    inst1       24423  28.34  10.85  28.10  43.88  44.59    4.1
+
+done; world restored; manifest at <results>/manifests/factorial_manifest_m2_factorial.txt
+########## kappa = 0.25 ##########
+free space where PX4 logs: 676234MB
+### m1_factorial kappa0.25 cell=A seed=1   [1/16, 8m elapsed, ~122m left]
+    <scenario_ws>/scenario_logs/2026-09-05_09-53-04/
+run: <scenario_ws>/scenario_logs/2026-09-05_09-53-04
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21967  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21969  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24421  19.92  11.63  11.71  35.70  42.73    0.0
+    inst1       24423  20.02  11.59  11.88  35.61  42.87    0.0
+
+### m1_factorial kappa0.25 cell=D seed=1   [2/16, 16m elapsed, ~114m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-01-19/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-01-19
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21965  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21980  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24422  21.71   8.13  19.14  34.80  42.67    0.0
+    inst1       24438  20.01  11.59  11.88  35.59  42.97    0.0
+
+### m1_factorial kappa0.25 cell=A seed=2   [3/16, 25m elapsed, ~110m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-10-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-10-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21956  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21964  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24412  19.93  11.63  11.81  35.74  42.80    0.0
+    inst1       24421  19.87  11.57  11.68  35.51  42.75    0.0
+
+### m1_factorial kappa0.25 cell=D seed=2   [4/16, 33m elapsed, ~101m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-18-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-18-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21963  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21971  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24418  21.74   8.24  19.56  34.74  42.68    0.0
+    inst1       24427  19.86  11.57  11.68  35.51  42.81    0.0
+
+### m1_factorial kappa0.25 cell=A seed=3   [5/16, 42m elapsed, ~92m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-27-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-27-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21974  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  22000  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24432  19.83  11.48  11.82  35.26  42.84    0.0
+    inst1       24461  19.91  11.42  11.91  35.32  43.17    0.0
+
+Terminated
+### m1_factorial kappa0.25 cell=D seed=3   [6/16, 50m elapsed, ~83m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-35-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-35-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21963  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21978  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24419  21.47   7.78  18.78  34.02  42.61    0.0
+    inst1       24437  19.93  11.42  11.92  35.33  42.88    0.0
+
+### m1_factorial kappa0.25 cell=A seed=4   [7/16, 58m elapsed, ~75m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-43-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-43-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21966  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21968  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24426  19.94  11.53  11.87  35.46  42.84    0.0
+    inst1       24429  19.91  11.60  11.75  35.61  42.70    0.0
+
+### m1_factorial kappa0.25 cell=D seed=4   [8/16, 66m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_10-51-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_10-51-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21980  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21959  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24437  21.74   8.08  20.00  34.66  42.95    0.0
+    inst1       24415  19.91  11.61  11.75  35.61  42.65    0.0
+
+### m1_factorial kappa0.25 cell=A seed=5   [9/16, 75m elapsed, ~58m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-00-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-00-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21993  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21970  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24451  19.97  11.61  11.76  35.67  43.13    0.0
+    inst1       24424  19.92  11.56  11.85  35.52  42.75    0.0
+
+### m1_factorial kappa0.25 cell=D seed=5   [10/16, 83m elapsed, ~50m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-08-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-08-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21959  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21955  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24413  21.88   8.14  19.40  34.63  42.64    0.0
+    inst1       24409  19.93  11.56  11.85  35.52  42.77    0.0
+
+### m1_factorial kappa0.25 cell=A seed=6   [11/16, 91m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-16-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-16-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21965  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24413  19.86  11.62  11.63  35.51  42.75    0.0
+    inst1       24417  19.85  11.66  11.63  35.65  42.79    0.0
+
+### m1_factorial kappa0.25 cell=D seed=6   [12/16, 99m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-24-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-24-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21964  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21999  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24418  21.49   8.11  19.16  34.59  42.54    0.0
+    inst1       24457  19.83  11.66  11.63  35.62  43.41    0.0
+
+### m1_factorial kappa0.25 cell=A seed=7   [13/16, 108m elapsed, ~24m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-33-01/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-33-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21962  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21964  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24416  20.01  11.59  11.86  35.61  42.83    0.0
+    inst1       24419  19.91  11.64  11.73  35.51  42.77    0.0
+
+Terminated
+### m1_factorial kappa0.25 cell=D seed=7   [14/16, 116m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-41-16/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-41-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21974  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21979  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24428  21.90   8.06  19.64  34.74  42.67    0.0
+    inst1       24433  19.90  11.64  11.74  35.49  42.89    0.0
+
+### m1_factorial kappa0.25 cell=A seed=8   [15/16, 124m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-49-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-49-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21966  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21966  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24421  19.99  11.49  11.90  35.61  42.70    0.0
+    inst1       24421  19.97  11.61  11.78  35.58  42.78    0.0
+
+### m1_factorial kappa0.25 cell=D seed=8   [16/16, 132m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_11-57-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_11-57-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21971  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21969  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24427  21.74   7.78  19.36  34.75  42.50    0.0
+    inst1       24425  19.97  11.61  11.79  35.57  42.73    0.0
+
+done; world restored; manifest at <results>/manifests/factorial_manifest_m1_factorial_kappa0.25.txt
+########## kappa = 0.50 ##########
+free space where PX4 logs: 672878MB
+### m1_factorial kappa0.50 cell=A seed=1   [1/16, 8m elapsed, ~122m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-06-10/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-06-10
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21977  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21978  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24434  30.82  15.65  44.79  44.98  45.27   54.4
+    inst1       24435  31.08  15.50  44.83  45.00  45.40   54.8
+
+Terminated
+### m1_factorial kappa0.50 cell=D seed=1   [2/16, 17m elapsed, ~121m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-15-23/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-15-23
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21965  track    1883m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21956  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24423  31.88  11.71  30.74  45.04  45.68   32.7
+    inst1       24413  31.09  15.50  44.83  45.00  45.46   54.9
+
+Terminated
+### m1_factorial kappa0.50 cell=A seed=2   [3/16, 25m elapsed, ~110m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-23-38/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-23-38
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21965  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21964  track    1888m  flight   462s
+  VERDICT: PASS
+    inst0       24422  30.91  15.60  44.83  45.00  45.23   54.4
+    inst1       24420  30.73  15.65  44.78  44.98  45.25   54.1
+
+### m1_factorial kappa0.50 cell=D seed=2   [4/16, 33m elapsed, ~101m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-31-53/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-31-53
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21983  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21971  track    1887m  flight   463s
+  VERDICT: PASS
+    inst0       24442  31.82  11.72  30.45  45.04  45.68   31.7
+    inst1       24428  30.71  15.66  44.78  44.98  45.39   54.2
+
+### m1_factorial kappa0.50 cell=A seed=3   [5/16, 42m elapsed, ~92m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-40-08/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-40-08
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21963  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21961  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24416  30.31  15.80  44.79  44.98  45.37   53.2
+    inst1       24413  30.72  15.47  44.83  45.01  45.43   53.4
+
+### m1_factorial kappa0.50 cell=D seed=3   [6/16, 50m elapsed, ~83m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-48-23/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-48-23
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21956  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21961  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24410  31.19  11.55  29.53  44.99  45.61   27.8
+    inst1       24415  30.75  15.45  44.82  45.00  45.28   53.3
+
+### m1_factorial kappa0.50 cell=A seed=4   [7/16, 58m elapsed, ~75m left]
+    <scenario_ws>/scenario_logs/2026-09-05_12-56-38/
+run: <scenario_ws>/scenario_logs/2026-09-05_12-56-38
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.5m  cruise  21970  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24417  30.96  15.48  44.82  44.99  45.45   54.2
+    inst1       24426  30.61  15.80  44.83  45.01  45.50   54.1
+
+### m1_factorial kappa0.50 cell=D seed=4   [8/16, 66m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-04-53/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-04-53
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1883m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21970  track    1887m  flight   463s
+  VERDICT: PASS
+    inst0       24416  32.18  11.43  31.57  45.03  45.73   31.0
+    inst1       24425  30.65  15.75  44.79  44.97  45.27   54.1
+
+### m1_factorial kappa0.50 cell=A seed=5   [9/16, 75m elapsed, ~58m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-13-08/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-13-08
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21964  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21959  track    1888m  flight   462s
+  VERDICT: PASS
+    inst0       24421  31.18  15.47  44.81  44.98  45.40   55.2
+    inst1       24415  30.94  15.53  44.79  44.97  45.28   54.4
+
+### m1_factorial kappa0.50 cell=D seed=5   [10/16, 83m elapsed, ~50m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-21-23/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-21-23
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  22018  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21976  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24481  32.19  11.61  29.99  44.98  45.65   35.0
+    inst1       24434  30.88  15.57  44.81  45.00  45.43   54.4
+
+### m1_factorial kappa0.50 cell=A seed=6   [11/16, 91m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-29-38/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-29-38
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21960  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21982  track    1888m  flight   462s
+  VERDICT: PASS
+    inst0       24414  30.65  15.76  44.79  45.00  45.52   54.3
+    inst1       24439  30.63  15.78  44.80  44.99  45.40   54.2
+
+### m1_factorial kappa0.50 cell=D seed=6   [12/16, 100m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-38-23/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-38-23
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21967  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21961  track    1888m  flight   462s
+  VERDICT: PASS
+    inst0       24421  31.44  11.67  29.54  45.03  45.59   30.4
+    inst1       24415  30.64  15.77  44.80  44.98  45.36   54.2
+
+### m1_factorial kappa0.50 cell=A seed=7   [13/16, 108m elapsed, ~25m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-46-38/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-46-38
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21967  track    1888m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21973  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24427  31.08  15.49  44.76  44.98  45.47   55.0
+    inst1       24434  30.75  15.71  44.82  45.00  45.24   54.2
+
+### m1_factorial kappa0.50 cell=D seed=7   [14/16, 116m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_13-54-53/
+run: <scenario_ws>/scenario_logs/2026-09-05_13-54-53
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21958  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21956  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24414  32.12  11.54  30.56  45.03  45.52   32.6
+    inst1       24412  30.75  15.73  44.82  45.01  45.36   54.4
+
+### m1_factorial kappa0.50 cell=A seed=8   [15/16, 125m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-03-08/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-03-08
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21968  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21953  track    1888m  flight   462s
+  VERDICT: PASS
+    inst0       24422  30.57  15.62  44.81  45.00  45.58   53.5
+    inst1       24404  31.01  15.54  44.81  44.97  45.27   54.6
+
+### m1_factorial kappa0.50 cell=D seed=8   [16/16, 133m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-11-23/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-11-23
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21978  track    1885m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21977  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24435  31.84  11.27  30.02  45.05  45.43   28.1
+    inst1       24435  30.98  15.54  44.80  44.97  45.35   54.6
+
+done; world restored; manifest at <results>/manifests/factorial_manifest_m1_factorial_kappa0.50.txt
+########## T = 0.5 s ##########
+free space where PX4 logs: 669522MB
+### m1_factorial tau0.5 cell=A seed=1   [1/16, 8m elapsed, ~122m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-19-46/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-19-46
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21976  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21958  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24432  23.42  14.71  12.95  43.21  44.40    0.5
+    inst1       24412  23.53  14.68  13.06  43.16  44.20    0.3
+
+Terminated
+### m1_factorial tau0.5 cell=D seed=1   [2/16, 16m elapsed, ~114m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-28-01/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-28-01
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21963  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21967  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24415  26.00  10.17  22.99  42.13  44.58    0.2
+    inst1       24420  23.53  14.68  13.07  43.17  44.22    0.3
+
+### m1_factorial tau0.5 cell=A seed=2   [3/16, 24m elapsed, ~106m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-36-16/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-36-16
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21963  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24415  23.43  14.72  13.04  43.29  44.84    0.3
+    inst1       24415  23.38  14.67  12.87  43.11  44.10    0.1
+
+### m1_factorial tau0.5 cell=D seed=2   [4/16, 32m elapsed, ~98m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-44-31/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-44-31
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21969  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21961  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24426  25.97  10.25  23.18  42.14  45.06    0.2
+    inst1       24417  23.38  14.67  12.86  43.12  44.09    0.1
+
+### m1_factorial tau0.5 cell=A seed=3   [5/16, 41m elapsed, ~90m left]
+    <scenario_ws>/scenario_logs/2026-09-05_14-52-45/
+run: <scenario_ws>/scenario_logs/2026-09-05_14-52-45
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21972  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21962  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24427  23.36  14.59  12.99  42.86  43.79    0.0
+    inst1       24416  23.44  14.53  13.12  42.95  44.11    0.1
+
+### m1_factorial tau0.5 cell=D seed=3   [6/16, 49m elapsed, ~82m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-01-00/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-01-00
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21969  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21982  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24425  25.77   9.86  22.56  41.33  43.34    0.0
+    inst1       24439  23.43  14.52  13.10  42.93  44.02    0.0
+
+### m1_factorial tau0.5 cell=A seed=4   [7/16, 58m elapsed, ~75m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-10-13/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-10-13
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21970  track    1887m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21973  track    1886m  flight   463s
+  VERDICT: PASS
+    inst0       24427  23.47  14.63  13.14  43.05  44.42    0.8
+    inst1       24430  23.40  14.70  12.97  43.17  44.89    0.7
+
+### m1_factorial tau0.5 cell=D seed=4   [8/16, 66m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-18-28/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-18-28
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21963  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21995  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24420  26.05  10.13  23.78  42.00  44.67    0.3
+    inst1       24455  23.38  14.70  12.95  43.18  44.90    0.7
+
+### m1_factorial tau0.5 cell=A seed=5   [9/16, 75m elapsed, ~58m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-26-43/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-26-43
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21959  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21966  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24412  23.48  14.70  13.01  43.20  44.17    0.2
+    inst1       24420  23.44  14.64  13.06  43.15  44.32    0.2
+
+### m1_factorial tau0.5 cell=D seed=5   [10/16, 84m elapsed, ~50m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-35-56/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-35-56
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21962  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21963  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24419  26.16  10.23  23.08  42.05  44.18    0.0
+    inst1       24420  23.43  14.64  13.06  43.17  44.29    0.3
+
+### m1_factorial tau0.5 cell=A seed=6   [11/16, 92m elapsed, ~42m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-44-11/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-44-11
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21959  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21974  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24417  23.37  14.71  12.90  43.07  44.11    0.1
+    inst1       24433  23.33  14.74  12.85  43.08  44.22    0.2
+
+### m1_factorial tau0.5 cell=D seed=6   [12/16, 100m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_15-52-26/
+run: <scenario_ws>/scenario_logs/2026-09-05_15-52-26
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21978  track    1884m  flight   463s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21965  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24439  25.80  10.14  22.80  41.94  43.90    0.0
+    inst1       24423  23.33  14.74  12.87  43.06  44.24    0.2
+
+### m1_factorial tau0.5 cell=A seed=7   [13/16, 109m elapsed, ~25m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-00-41/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-00-41
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21961  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21963  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24414  23.49  14.66  13.11  43.17  44.45    0.3
+    inst1       24417  23.41  14.73  12.95  43.09  44.53    0.7
+
+### m1_factorial tau0.5 cell=D seed=7   [14/16, 117m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-08-55/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-08-55
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21964  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21960  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24419  26.19  10.11  23.37  41.90  44.16    0.1
+    inst1       24414  23.41  14.74  12.96  43.08  44.52    0.7
+
+### m1_factorial tau0.5 cell=A seed=8   [15/16, 125m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-17-11/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-17-11
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21971  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21951  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24428  23.49  14.59  13.12  43.16  43.95    0.0
+    inst1       24406  23.48  14.70  13.04  43.11  44.85    0.5
+
+### m1_factorial tau0.5 cell=D seed=8   [16/16, 133m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-25-26/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-25-26
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21960  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21957  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24415  26.08   9.89  23.23  42.01  43.59    0.0
+    inst1       24411  23.47  14.70  13.04  43.14  44.78    0.6
+
+Terminated
+done; world restored; manifest at <results>/manifests/factorial_manifest_m1_factorial_tau0.5.txt
+########## T = 3.0 s ##########
+free space where PX4 logs: 666166MB
+### m1_factorial tau3.0 cell=A seed=1   [1/16, 8m elapsed, ~122m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-33-49/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-33-49
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21963  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21978  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24416  23.43  14.82  13.11  43.69  44.63    2.2
+    inst1       24433  23.66  14.74  13.39  43.46  44.12    0.2
+
+### m1_factorial tau3.0 cell=D seed=1   [2/16, 16m elapsed, ~114m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-42-03/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-42-03
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21985  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21971  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24442  26.05  10.58  23.29  42.61  44.37    0.5
+    inst1       24426  23.66  14.74  13.37  43.48  44.15    0.3
+
+### m1_factorial tau3.0 cell=A seed=2   [3/16, 24m elapsed, ~106m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-50-19/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-50-19
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21952  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21965  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24404  23.45  14.83  13.10  43.58  44.78    3.1
+    inst1       24418  23.31  14.70  12.92  43.19  44.27    0.5
+
+### m1_factorial tau3.0 cell=D seed=2   [4/16, 32m elapsed, ~98m left]
+    <scenario_ws>/scenario_logs/2026-09-05_16-58-34/
+run: <scenario_ws>/scenario_logs/2026-09-05_16-58-34
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.2m  cruise  21969  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21968  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24427  26.13  10.65  23.54  42.77  45.09    2.7
+    inst1       24426  23.31  14.70  12.93  43.19  44.31    0.5
+
+### m1_factorial tau3.0 cell=A seed=3   [5/16, 42m elapsed, ~92m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-07-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-07-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21965  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  22003  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24422  23.27  14.47  13.35  42.68  43.61    0.0
+    inst1       24464  23.41  14.36  13.46  42.97  43.97    0.0
+
+### m1_factorial tau3.0 cell=D seed=3   [6/16, 50m elapsed, ~83m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-16-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-16-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21978  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21964  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24433  25.60   9.69  22.97  40.88  43.07    0.0
+    inst1       24417  23.43  14.37  13.48  42.94  43.99    0.0
+
+### m1_factorial tau3.0 cell=A seed=4   [7/16, 58m elapsed, ~75m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-24-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-24-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21959  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21961  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24413  23.47  14.64  13.57  43.26  44.79    1.2
+    inst1       24416  23.41  14.76  13.04  43.51  44.99    2.2
+
+### m1_factorial tau3.0 cell=D seed=4   [8/16, 66m elapsed, ~66m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-32-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-32-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21971  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21978  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24426  26.19  10.43  25.36  42.51  45.07    0.7
+    inst1       24434  23.39  14.76  13.04  43.47  44.95    2.2
+
+### m1_factorial tau3.0 cell=A seed=5   [9/16, 75m elapsed, ~58m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-40-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-40-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21971  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21962  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24430  23.58  14.78  13.15  43.51  44.55    0.9
+    inst1       24420  23.45  14.66  13.42  43.17  44.66    1.7
+
+### m1_factorial tau3.0 cell=D seed=5   [10/16, 83m elapsed, ~50m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-49-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-49-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21965  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21957  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24420  26.52  10.55  23.60  42.37  44.88    0.4
+    inst1       24411  23.45  14.65  13.41  43.17  44.68    1.6
+
+### m1_factorial tau3.0 cell=A seed=6   [11/16, 91m elapsed, ~41m left]
+    <scenario_ws>/scenario_logs/2026-09-05_17-57-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_17-57-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21967  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21972  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24423  23.26  14.81  12.95  43.33  44.05    0.5
+    inst1       24427  23.26  14.87  12.95  43.35  44.67    1.2
+
+### m1_factorial tau3.0 cell=D seed=6   [12/16, 99m elapsed, ~33m left]
+    <scenario_ws>/scenario_logs/2026-09-05_18-05-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_18-05-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21978  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.6m  cruise  21993  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24437  25.61  10.49  23.09  42.34  43.80    0.0
+    inst1       24452  23.24  14.87  12.93  43.38  44.56    1.3
+
+### m1_factorial tau3.0 cell=A seed=7   [13/16, 108m elapsed, ~24m left]
+    <scenario_ws>/scenario_logs/2026-09-05_18-13-47/
+run: <scenario_ws>/scenario_logs/2026-09-05_18-13-47
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.4m  cruise  21968  track    1887m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21967  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24424  23.61  14.71  13.30  43.43  44.90    1.2
+    inst1       24422  23.35  14.85  13.05  43.18  44.82    0.8
+
+### m1_factorial tau3.0 cell=D seed=7   [14/16, 116m elapsed, ~16m left]
+    <scenario_ws>/scenario_logs/2026-09-05_18-22-02/
+run: <scenario_ws>/scenario_logs/2026-09-05_18-22-02
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21969  track    1885m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.3m  cruise  21968  track    1886m  flight   462s
+  VERDICT: PASS
+    inst0       24424  26.52  10.34  24.03  42.31  44.53    0.2
+    inst1       24422  23.36  14.85  13.04  43.20  44.77    0.8
+
+### m1_factorial tau3.0 cell=A seed=8   [15/16, 124m elapsed, ~8m left]
+    <scenario_ws>/scenario_logs/2026-09-05_18-30-17/
+run: <scenario_ws>/scenario_logs/2026-09-05_18-30-17
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  0 regions, 16 turbines (uniform-field cell: expected 0)
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21954  track    1886m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21991  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24408  23.59  14.48  13.41  43.27  44.37    1.0
+    inst1       24449  23.51  14.78  13.16  43.41  44.25    0.3
+
+### m1_factorial tau3.0 cell=D seed=8   [16/16, 132m elapsed, ~0m left]
+    <scenario_ws>/scenario_logs/2026-09-05_18-38-32/
+run: <scenario_ws>/scenario_logs/2026-09-05_18-38-32
+  A1 plugin loaded      : PASS
+  A2 wake published     : PASS  256 regions, 16 turbines
+  A3 instance 0 flew    : PASS  max_alt   52.3m  cruise  21963  track    1884m  flight   462s
+  A3 instance 1 flew    : PASS  max_alt   52.4m  cruise  21972  track    1887m  flight   462s
+  VERDICT: PASS
+    inst0       24416  26.23   9.66  23.76  42.15  44.12    0.3
+    inst1       24425  23.53  14.78  13.16  43.41  44.24    0.3
+
+done; world restored; manifest at <results>/manifests/factorial_manifest_m1_factorial_tau3.0.txt
+CAMPAIGN_COMPLETE
+
+[exited with code 0]

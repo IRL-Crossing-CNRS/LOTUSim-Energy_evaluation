@@ -1,0 +1,439 @@
+{
+ "kappa0.25": [
+  {
+   "cell": "A",
+   "seed": 1,
+   "flight_s": 462.3,
+   "tilt_max": 42.82,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 1,
+   "flight_s": 462.2,
+   "tilt_max": 42.64,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 2,
+   "flight_s": 462.3,
+   "tilt_max": 42.83,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 2,
+   "flight_s": 462.6,
+   "tilt_max": 43.05,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 3,
+   "flight_s": 462.3,
+   "tilt_max": 42.71,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 3,
+   "flight_s": 462.1,
+   "tilt_max": 42.6,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 4,
+   "flight_s": 462.5,
+   "tilt_max": 42.81,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 4,
+   "flight_s": 462.3,
+   "tilt_max": 42.71,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 5,
+   "flight_s": 462.4,
+   "tilt_max": 43.01,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 5,
+   "flight_s": 462.3,
+   "tilt_max": 42.62,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 6,
+   "flight_s": 462.4,
+   "tilt_max": 42.78,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 6,
+   "flight_s": 462.2,
+   "tilt_max": 42.81,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 7,
+   "flight_s": 64.1,
+   "tilt_max": 13.12,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 7,
+   "flight_s": 81.9,
+   "tilt_max": 24.78,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 8,
+   "flight_s": 462.3,
+   "tilt_max": 42.77,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 8,
+   "flight_s": 462.2,
+   "tilt_max": 42.58,
+   "pct_over_44": 0.0
+  }
+ ],
+ "kappa0.50": [
+  {
+   "cell": "A",
+   "seed": 1,
+   "flight_s": 84.1,
+   "tilt_max": 45.05,
+   "pct_over_44": 35.6
+  },
+  {
+   "cell": "D",
+   "seed": 1,
+   "flight_s": 84.4,
+   "tilt_max": 37.09,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 2,
+   "flight_s": 85.2,
+   "tilt_max": 45.13,
+   "pct_over_44": 36.74
+  },
+  {
+   "cell": "D",
+   "seed": 2,
+   "flight_s": 85.4,
+   "tilt_max": 34.05,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 3,
+   "flight_s": 86.6,
+   "tilt_max": 45.0,
+   "pct_over_44": 29.94
+  },
+  {
+   "cell": "D",
+   "seed": 3,
+   "flight_s": 84.9,
+   "tilt_max": 33.94,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 4,
+   "flight_s": 85.1,
+   "tilt_max": 45.01,
+   "pct_over_44": 35.55
+  },
+  {
+   "cell": "D",
+   "seed": 4,
+   "flight_s": 85.6,
+   "tilt_max": 35.63,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 5,
+   "flight_s": 85.9,
+   "tilt_max": 45.04,
+   "pct_over_44": 40.29
+  },
+  {
+   "cell": "D",
+   "seed": 5,
+   "flight_s": 86.6,
+   "tilt_max": 34.48,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 6,
+   "flight_s": 86.9,
+   "tilt_max": 45.05,
+   "pct_over_44": 36.53
+  },
+  {
+   "cell": "D",
+   "seed": 6,
+   "flight_s": 88.4,
+   "tilt_max": 32.79,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 7,
+   "flight_s": 89.1,
+   "tilt_max": 45.02,
+   "pct_over_44": 41.71
+  },
+  {
+   "cell": "D",
+   "seed": 7,
+   "flight_s": 89.9,
+   "tilt_max": 35.67,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 8,
+   "flight_s": 462.3,
+   "tilt_max": 45.34,
+   "pct_over_44": 53.47
+  },
+  {
+   "cell": "D",
+   "seed": 8,
+   "flight_s": 89.6,
+   "tilt_max": 36.15,
+   "pct_over_44": 0.0
+  }
+ ],
+ "tau0.5": [
+  {
+   "cell": "A",
+   "seed": 1,
+   "flight_s": 462.3,
+   "tilt_max": 44.37,
+   "pct_over_44": 0.48
+  },
+  {
+   "cell": "D",
+   "seed": 1,
+   "flight_s": 462.7,
+   "tilt_max": 44.33,
+   "pct_over_44": 0.13
+  },
+  {
+   "cell": "A",
+   "seed": 2,
+   "flight_s": 90.5,
+   "tilt_max": 15.19,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 2,
+   "flight_s": 91.0,
+   "tilt_max": 29.1,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 3,
+   "flight_s": 462.2,
+   "tilt_max": 43.85,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 3,
+   "flight_s": 92.3,
+   "tilt_max": 30.83,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 4,
+   "flight_s": 92.4,
+   "tilt_max": 15.27,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 4,
+   "flight_s": 93.3,
+   "tilt_max": 30.63,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 5,
+   "flight_s": 93.7,
+   "tilt_max": 14.81,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 5,
+   "flight_s": 93.7,
+   "tilt_max": 29.74,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 6,
+   "flight_s": 95.0,
+   "tilt_max": 14.36,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 6,
+   "flight_s": 94.6,
+   "tilt_max": 28.22,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 7,
+   "flight_s": 94.6,
+   "tilt_max": 14.63,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 7,
+   "flight_s": 95.2,
+   "tilt_max": 30.02,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 8,
+   "flight_s": 42.8,
+   "tilt_max": 29.16,
+   "pct_over_44": 0.0
+  }
+ ],
+ "tau3.0": [
+  {
+   "cell": "A",
+   "seed": 1,
+   "flight_s": 43.2,
+   "tilt_max": 16.03,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 1,
+   "flight_s": 44.2,
+   "tilt_max": 34.06,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 2,
+   "flight_s": 174.6,
+   "tilt_max": 44.81,
+   "pct_over_44": 7.15
+  },
+  {
+   "cell": "D",
+   "seed": 2,
+   "flight_s": 22.0,
+   "tilt_max": 27.87,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 3,
+   "flight_s": 41.7,
+   "tilt_max": 14.58,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 5,
+   "flight_s": 84.3,
+   "tilt_max": 14.9,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 6,
+   "flight_s": 67.2,
+   "tilt_max": 14.1,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 6,
+   "flight_s": 88.5,
+   "tilt_max": 28.33,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 7,
+   "flight_s": 15.2,
+   "tilt_max": 15.19,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 7,
+   "flight_s": 16.2,
+   "tilt_max": 31.56,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "A",
+   "seed": 8,
+   "flight_s": 91.4,
+   "tilt_max": 15.23,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 8,
+   "flight_s": 129.6,
+   "tilt_max": 29.42,
+   "pct_over_44": 0.0
+  }
+ ],
+ "tau0.5recheck": [
+  {
+   "cell": "A",
+   "seed": 1,
+   "flight_s": 34.1,
+   "tilt_max": 15.05,
+   "pct_over_44": 0.0
+  },
+  {
+   "cell": "D",
+   "seed": 1,
+   "flight_s": 168.4,
+   "tilt_max": 44.12,
+   "pct_over_44": 0.15
+  }
+ ]
+}

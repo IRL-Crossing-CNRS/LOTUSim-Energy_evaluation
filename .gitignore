@@ -1,0 +1,22 @@
+# Model weights and training runs. model/best.pt is committed deliberately and
+# is negated below; everything else a training run produces stays out.
+*.pt
+!inspection-perception/model/best.pt
+runs/
+underwater_clahe_*/
+underwater_grid_search/
+
+# Ultralytics label caches
+*.cache
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

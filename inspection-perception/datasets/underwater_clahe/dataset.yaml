@@ -1,0 +1,6 @@
+path: underwater_clahe
+train: valid/images
+val: valid/images
+
+names:
+  0: crack

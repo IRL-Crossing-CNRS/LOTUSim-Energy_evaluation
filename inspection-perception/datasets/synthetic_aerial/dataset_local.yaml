@@ -1,0 +1,6 @@
+path: /home/shaj0038/Desktop/crack_detection_model/tests_for_paper/simulation_aerial_cracks
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: crack

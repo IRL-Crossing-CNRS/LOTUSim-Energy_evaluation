@@ -1,0 +1,6 @@
+path: aerial
+train: images
+val: images
+
+names:
+  0: crack

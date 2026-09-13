@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib>=3.7
+floris>=4.0
+pyyaml>=6.0
+pandas>=2.0
+Pillow>=10.0
